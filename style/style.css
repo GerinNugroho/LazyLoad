@@ -91,7 +91,7 @@ nav .navbarContainer {
 
 .homeContainer {
   min-height: 100vh;
-  background-image: linear-gradient(rgba(16, 24, 32, 0.8), rgba(16, 24, 32, 0.8), rgba(16, 24, 32, 1) 90%), url('/assets/background.jpg');
+  background-image: linear-gradient(rgba(16, 24, 32, 0.8), rgba(16, 24, 32, 0.8), rgba(16, 24, 32, 1) 90%), url('../assets/background.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -285,7 +285,7 @@ nav .navbarContainer {
 }
 
 .pillarItem:nth-child(1) .loaded {
-  background: url('/assets/man.png');
+  background: url('../assets/man.png');
   background-position: center;
   background-size: 25rem;
   background-repeat: no-repeat;
@@ -293,7 +293,7 @@ nav .navbarContainer {
 }
 
 .pillarItem:nth-child(2) .loaded {
-  background: url('/assets/CEO.png');
+  background: url('../assets/CEO.png');
   background-position: center;
   background-size: 25rem;
   background-repeat: no-repeat;
@@ -302,7 +302,7 @@ nav .navbarContainer {
 }
 
 .pillarItem:nth-child(3) .loaded {
-  background: url('/assets/woman.png');
+  background: url('../assets/woman.png');
   background-position: center;
   background-size: 25rem;
   background-repeat: no-repeat;
